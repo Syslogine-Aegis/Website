@@ -1,0 +1,9 @@
+# Base configuration
+baseURL = "https://syslogine-aegis.com"
+title = "Syslogine Aegis"
+theme = "docsy"
+publishDir = "public"
+
+# Custom content directories
+contentDir = "src"
+staticDir = "public"
